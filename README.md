@@ -22,7 +22,7 @@ Examples of the instances from the dataset are provided in the below Table:
 The statistics the dataset are provided in the below Table: 
 
 <div align="center">
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/486f22ff-84cc-4156-8205-2df84cb98947" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/486f22ff-84cc-4156-8205-2df84cb98947" />
 </div>
 
 ## Citations
@@ -43,7 +43,7 @@ If you want to use the dataset please cite the following arXiv paper:
 The baseline results that have been obtained when using the dataset are reported in the following Table:
 
 <div align="center">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/f3ee2c09-12a1-4a98-960f-7be1cd0a5a9d" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f3ee2c09-12a1-4a98-960f-7be1cd0a5a9d" />
 </div>
 
 ## Contacts:
