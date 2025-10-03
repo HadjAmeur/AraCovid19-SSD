@@ -2,23 +2,28 @@
 
 ## Description
 
-AraCOVID19-SSD a manually annotated Arabic COVID-19 sarcasm and sentiment detection dataset containing 5,162 tweets. The lables that are used in the dataset are the following:
-<img width="1081" height="245" alt="image" src="https://github.com/user-attachments/assets/353dcbb8-8d61-4c08-8ada-899380df98b4" />
+AraCOVID19-SSD is a manually annotated Arabic COVID-19 sarcasm and sentiment detection dataset containing 5,162 tweets. The lables that are used in the dataset are the following:
 
 
-An example of the instances present in the dataset are provided in the below Table: 
-<img width="1150" height="456" alt="image" src="https://github.com/user-attachments/assets/8a60869a-f07b-4062-af7c-dfe39e75e237" />
+<div align="center">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/353dcbb8-8d61-4c08-8ada-899380df98b4" />
+</div>
+
+## Examples
+
+Examples of the instances from the dataset are provided in the below Table: 
+
+<div align="center">
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/8a60869a-f07b-4062-af7c-dfe39e75e237" />
+</div>
 
 
-
-## CONTENTS
-
-
-AraCOVID19-SSD_V1.0.csv contains the columns: Tweet_ID, Sarcastic, Sentiment. Sarcastic can take tha values NO and YES, and Sentiment can take the three values: Neutral, Negative, and Positive.
-
+## Statistics
 The statistics the dataset are provided in the below Table: 
-<img width="746" height="212" alt="image" src="https://github.com/user-attachments/assets/486f22ff-84cc-4156-8205-2df84cb98947" />
 
+<div align="center">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/486f22ff-84cc-4156-8205-2df84cb98947" />
+</div>
 
 ## Citations
 If you want to use the dataset please cite the following arXiv paper:
@@ -37,8 +42,9 @@ If you want to use the dataset please cite the following arXiv paper:
 
 The baseline results that have been obtained when using the dataset are reported in the following Table:
 
-<img width="958" height="525" alt="image" src="https://github.com/user-attachments/assets/f3ee2c09-12a1-4a98-960f-7be1cd0a5a9d" />
-
+<div align="center">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f3ee2c09-12a1-4a98-960f-7be1cd0a5a9d" />
+</div>
 
 ## Contacts:
 For all questions please contact ``mohamedhadjameur@gmail.com`` 
